@@ -1,0 +1,17 @@
+{
+  "development": {
+    "username": null,
+    "password": null,
+    "database": "wiki_max",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": null,
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+
+}
